@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alahap
 - 👀 I’m interested in programming language.
-- 🌱 I’m currently learning back-end dev
+- 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
